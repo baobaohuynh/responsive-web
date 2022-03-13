@@ -1,0 +1,43 @@
+.search {
+    width: 50%;
+}
+
+.nav1:hover {
+    border-bottom: 2px solid white;
+}
+
+.navbar, .footer {
+    background-color: rgb(4, 8, 39);
+}
+
+.row4 {
+    background-color: rgb(4, 8, 39);
+    font-size: 18px;
+}
+
+.row5 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.nav-item {
+    padding: 0px;
+}
+
+.nav-item:hover {
+    border: 1px solid white;
+}
+
+.carousel-caption {
+    font-family: 'Hubballi', cursive;
+    font-size: 30px;
+}
+
+.item {
+    margin: 5px;
+}
+
+.item-info {
+    padding: 10px;
+    min-height: 100px;
+}
